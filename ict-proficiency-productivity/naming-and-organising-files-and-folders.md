@@ -6,7 +6,7 @@ Being organised helps us feel less stressed in work and personal lives. If you f
 
 Additionally, if you are working with others and need to share files or at least share the location they sit in, having a clearly understood structure that is easy to stick to will mean less confusion in your group.
 
-Simply put, having a **consistent, logical structure** means one less thing to think about and one less roadblock between you and getting the work done! Following are some principles to follow for organising those files.
+Simply put, having a **consistent, logical file structure** means one less thing to think about and one less roadblock between you and getting the work done! Following are some principles to follow for organising those files.
 
 ## Getting started
 
